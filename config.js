@@ -41,25 +41,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['6283813063969'] //ur owner number
-global.ownername = "FATURRAHMAN AFRIZAL"
-global.ytname = "https://tiktok.com/@gw.faturr" //ur yt chanel name
-global.socialm = "GitHub: Faturrbotz" //ur github or insta name
+global.owner = ['6289515977063'] //ur owner number
+global.ownername = "kenaa desu"
+global.ytname = "gada yutub" //ur yt chanel name
+global.socialm = "instagram.com/sadkenn_" //ur github or insta name
 global.location = "Indonesia" //ur location
 
 //bot bombdy
-global.botname = "KannaBOT-MD" //ur bot name
-global.websitex = "https://tiktok.com/@gw.faturr" //ur website
+global.botname = "Kenn bot" //ur bot name
+global.websitex = "instagram.com/sadkenn_" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "KannaBOT-MD\n\n\n\n\n\n\ "
-global.author = "By FATURRAHMAN"
+global.packname = "follow @sadkenn_"
+global.author = "By kenaa desu"
 global.themeemoji = "🐶"
 global.reactmoji = "😘"
-global.ownertag = ['6283813063969'] //ur owner tag
-global.ownernummenu = ['6283813063969'] //ur owner number in menu and all
-global.watermark = "Created By © Faturr." //ur watermark
-global.botscript = "www.xnxx.com"
-global.linkz1 = "https://tiktok.com/@gw.faturr"
+global.ownertag = ['62889515977063'] //ur owner tag
+global.ownernummenu = ['6289515977063'] //ur owner number in menu and all
+global.watermark = "Created By ©sadkenn_" //ur watermark
+global.botscript = "n"
+global.linkz1 = "instagram.com/sadkenn_"
 global.linkz2 = "-"
 
 //Bot theme media
@@ -95,22 +95,22 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Done✓',
-    admin: 'feature is only for admins!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This feature is only for owner',
-    group: 'This feature is only for groups!',
-    private: 'This feature is only for private chats!',
-    bot: 'This feature is only for bot',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
+    admin: 'lo bukan atmin dek!',
+    botAdmin: 'jadiin bot ini sbg atmin terlebih dahulu!',
+    owner: 'lo bukan owner dek',
+    group: 'chat ini bukan grup',
+    private: 'private aja sayang!',
+    bot: 'Tlo bukan bot',
+    wait: 'chotto...',
+    linkm: 'link nya mana dek',
     error: 'Error!',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    ban: 'lo udh ke ban, awmwowmowmowmowmwok',
+    nsfw: 'dosa jariyah dek',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: 25,
     monayawal: 1000
 }
    global.rpg = {
